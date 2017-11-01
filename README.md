@@ -1,1 +1,1 @@
-# This project serves mainly as cheap RPM producer. And yet another one. Change3.
+# This project demonstrates COPR's `make srpm` build method
