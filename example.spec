@@ -1,5 +1,5 @@
 Name:       example
-Version:	1.0.8
+Version:	1.0.0
 Release:	1%{?dist}
 Summary:	This is a simple example to test copr
 
