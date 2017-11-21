@@ -5,7 +5,7 @@ Summary:	This is a simple example to test copr
 
 Group:		Applications/File
 License:	GPLv2+
-URL:		http://github.com/example
+URL:		http://github.com/blog-tutorial-make-srpm
 Source0:	%{name}-%{version}.tar.gz
 
 # simulated dependencies
